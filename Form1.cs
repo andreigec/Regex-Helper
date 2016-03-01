@@ -15,6 +15,7 @@ namespace RegexHelper
 {
     public partial class Form1 : Form
     {
+    	
         #region licensing
         private const String HelpString = "";
 
